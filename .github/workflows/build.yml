@@ -1,0 +1,28 @@
+name: Build AsciiDoc to HTML
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Asciidoctor
+      run: sudo apt-get install -y asciidoctor
+
+    - name: Build HTML
+      run: asciidoctor -D docs/ book/book.adoc
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs

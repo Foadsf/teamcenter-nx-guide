@@ -1,0 +1,63 @@
+=== 6. Fundamental Modeling in NX
+.expand
+[%collapsible]
+====
+- Sketches:
+  - Creating sketches: Planes, orientations, best practices.
+  - Sketch constraints: Geometric and dimensional, ensuring fully defined sketches.
+  - Essential sketch tools (lines, arcs, circles, rectangles, splines, etc.).
+- Building Solid Models:
+  - Feature-based modeling: Explanation of the concept.
+  - Key feature creation tools: Extrude, revolve, sweep, hole, boss, pocket, etc.
+- Modifying Solids:
+  - Editing features, changing dimensions.
+  - Operations: Chamfer, fillet, patterns, shell, split, etc.
+====
+
+=== 7. Advanced NX Design Techniques
+.expand
+[%collapsible]
+====
+- Freeform Modeling: Tools for surfaces (ruled, through curves, through section, etc.).
+- Sheet Metal Design: Specialized tools for sheet metal parts.
+- Advanced Modeling Workflows: Combining techniques for complex geometry.
+- Working with Expressions: Parametric control using expressions and formulas.
+====
+
+=== 8. Assembly Design and Management
+.expand
+[%collapsible]
+====
+- Building Assemblies:
+  - Adding components, positioning, constraints.
+  - Working with the Assembly Navigator for organization.
+  - Bottom-up vs. Top-Down Assembly Design.
+- Assembly Constraints:
+  - Types of constraints (mate, align, orient, etc.) and degrees of freedom.
+  - Best practices for defining robust constraints.
+- Advanced Assembly Features:
+  - Wave Linking: Copying geometry and establishing dependencies between parts.
+  - Master Model Concept in Assemblies: Benefits and how to use it effectively.
+  - Reference Sets in Assemblies: Managing display complexity.
+- Analysis:
+  - Interference checking, clearance analysis, and reporting.
+  - Creating exploded views for documentation and assembly instructions.
+  - Assembly sequencing for manufacturing planning.
+- Best Practices: Techniques for managing large assemblies, selecting appropriate constraints, and simplifying assembly visualization.
+- Hands-on Exercise: Assembling multiple parts with various constraints and performing interference analysis.
+====
+
+=== 9. Drafting and Documentation in NX
+.expand
+[%collapsible]
+====
+- Creating Drawings:
+  - Views: Automatic view creation (base, projected, section, auxiliary, etc.).
+  - Dimensioning and Annotation: Tools and standards.
+  - Drawing Templates: Using and customizing templates.
+- Linking to Teamcenter:
+  - Managing drawing revisions within Teamcenter.
+  - Linking drawings to parts and assemblies.
+- Best Practices: Tips for generating clear and concise drawings, applying appropriate dimensioning standards, and efficiently linking drawings to Teamcenter data.
+- Hands-on Exercise: Creating a detailed drawing of an assembly with multiple views and annotations.
+====
