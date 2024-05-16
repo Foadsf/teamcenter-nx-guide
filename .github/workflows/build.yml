@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
 
     - name: Set up Asciidoctor
       run: sudo apt-get install -y asciidoctor
@@ -25,7 +25,7 @@ jobs:
       run: asciidoctor -D docs/ book/book.adoc
 
     - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
+      uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GH_TOKEN }}
         publish_dir: ./docs
