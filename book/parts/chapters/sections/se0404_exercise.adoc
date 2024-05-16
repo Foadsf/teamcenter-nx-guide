@@ -1,0 +1,29 @@
+In the previous sections, we explored the fundamental objects of Teamcenter and established best practices for organizing and managing data. Now, we'll take our skills to the next level by building assembly structures and mastering the art of revision control. These hands-on exercises will guide you through the practical steps of creating hierarchical product breakdowns, managing design changes, and ensuring data integrity throughout the evolution of your product.
+
+We'll start by creating a basic assembly structure, representing a product made up of multiple components. You'll learn how to add items as sub-assemblies or individual parts, define quantities, and establish relationships between these components. Then, we'll delve into revision management, exploring how Teamcenter tracks design changes, maintains a historical record of modifications, and ensures that everyone is working with the latest, approved versions.
+
+Through these exercises, you'll gain valuable experience with the essential workflows for managing complex product data in Teamcenter.  Remember to apply the best practices we discussed earlier, maintaining a clear and consistent structure, using meaningful names, and leveraging metadata to enhance searchability and traceability.
+
+
+**4.6.  Exercise 1: Creating a Basic Assembly Structure**
+
+   - **4.6.1.  Starting with a Top-Level Item:** Instructions for creating a new item to represent the top-level assembly (e.g., a bicycle).
+   - **4.6.2.  Adding Components:**  
+      -  Use the Teamcenter Structure Manager or a similar tool to add existing items as components to the assembly.
+      -  Include both sub-assemblies (e.g., wheels, frame) and individual parts (e.g., handlebars, seat).
+   - **4.6.3. Defining Quantities:**  Specify the correct quantity for each component in the assembly.
+   - **4.6.4.  Establishing Relationships:** 
+      -  Use appropriate relationship types (e.g., Specification) to define the connection between components.
+      -  Explore different ways to visualize the assembly structure (e.g., tree view, indented list).
+
+**4.7.  Exercise 2: Managing Revisions**
+
+   - **4.7.1. Creating a New Revision:**  Demonstrate how to create a new revision of an existing item, either a part or a sub-assembly. 
+   - **4.7.2. Modifying the Design:** 
+      - Guide users through making a design change in the new revision, such as changing a dimension or adding a feature.
+      -  Emphasize saving the changes to the new revision.
+   - **4.7.3. Updating the Assembly:**
+      - Explain how to update the top-level assembly to reflect the changes in the revised component.
+      - Show how Teamcenter tracks the different revisions used in the assembly.
+   - **4.7.4.  Releasing a Revision:**  Briefly introduce the concept of releasing a revision, explaining how it signifies approval and controls further modifications.
+

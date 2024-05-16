@@ -1,0 +1,12 @@
+.expand
+[%collapsible]
+====
+- Search and Retrieval: Powerful search methods, filters, saved searches, using wildcards, etc.
+- Visualization: Using the embedded viewer for 2D/3D data, markup, measurements, and collaboration.
+- Workflows:
+  - Introduction to workflows and their role in managing processes.
+  - Common Teamcenter workflows (e.g., change management, release).
+- Data Exchange: Import/export options (including neutral formats) and working with review packages.
+- Best Practices: Using advanced search techniques, creating effective markups, and managing workflows.
+- Hands-on Exercise: Performing a complex search, creating a markup on a 3D model, and initiating a basic workflow.
+====

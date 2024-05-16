@@ -26,4 +26,3 @@ include::{parts_dir}/pa03_nx.adoc[]
 include::{parts_dir}/pa04_last.adoc[]
 
 
-``` &#8203;``【oaicite:0】``&#8203;
