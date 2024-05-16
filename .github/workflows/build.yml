@@ -22,7 +22,7 @@ jobs:
       run: sudo apt-get install -y asciidoctor
 
     - name: Build HTML
-      run: asciidoctor -D docs/ book/book.adoc
+      run: asciidoctor -o docs/index.html book/book.adoc
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
