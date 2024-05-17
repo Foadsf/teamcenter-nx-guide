@@ -1,20 +1,26 @@
+As we embark on the third part of our journey, "Mastering NX for Product Design," we find ourselves at the precipice of innovation, ready to unleash the full potential of Siemens NX, the industry-leading CAD/CAM/CAE software that has revolutionized the way products are designed, analyzed, and manufactured. With a solid foundation in the principles of Product Lifecycle Management (PLM) and a deep understanding of Teamcenter's comprehensive data management capabilities, we now turn our focus to the heart of the product development process: design.
+
+NX is more than just a tool; it is a catalyst for creativity, a canvas upon which engineers and designers can bring their visions to life. This powerful software package offers a complete suite of integrated tools that seamlessly support every stage of the product design process, from initial concept sketches to detailed manufacturing documentation. Whether you're a seasoned professional looking to refine your skills or a curious newcomer eager to explore the world of 3D modeling, "Part 3: Mastering NX for Product Design" will be your guide, illuminating the path to design excellence.
+
+In this part, we will embark on a comprehensive exploration of NX's vast capabilities, delving into the intricacies of its intuitive sketching tools, robust solid modeling functionality, advanced assembly design features, and comprehensive drafting capabilities. Through a series of hands-on exercises, real-world examples, and in-depth discussions, you will gain the knowledge and practical skills necessary to harness the full power of NX and create designs that push the boundaries of what's possible.
+
+Our journey begins with a deep dive into the fundamentals of modeling in NX. We'll explore the art of creating precise and flexible sketches, the building blocks of any 3D model. You'll learn how to apply geometric constraints, ensuring that your designs maintain their intended relationships and dimensions even as changes are made. From there, we'll delve into the world of feature-based solid modeling, where you'll master the use of powerful tools like extrude, revolve, sweep, hole, fillet, and chamfer to transform simple sketches into complex, realistic shapes.
+
+As your skills grow, we'll venture into more advanced design techniques that will elevate your creations to new heights. You'll discover the freedom and flexibility of freeform modeling, allowing you to create organic, sculpted shapes that defy traditional design constraints. We'll explore the intricacies of sheet metal design, equipping you with the knowledge to develop parts that are optimized for manufacturability. And through the use of expressions and parametric design, you'll learn how to create models that intelligently adapt to design changes, saving you time and effort in the iterative design process.
+
+Throughout this part, we'll emphasize the importance of hands-on learning, providing you with ample opportunities to apply your newfound knowledge to practical exercises and real-world design scenarios. You'll gain confidence in your ability to design intricate parts, assemble them into functional products, and generate detailed drawings that communicate your design intent with clarity and precision. By the end of Part 3, you'll have the skills and knowledge to tackle even the most complex design challenges, leveraging the full power of NX to create innovative, efficient, and manufacturable products.
+
+So, let us embark on this exhilarating journey together, as we explore the depths of NX's capabilities and unlock the secrets to mastering product design. With dedication, practice, and the guidance provided in this part, you'll soon find yourself at the forefront of the design world, equipped with the tools and expertise to bring your boldest ideas to life. Let's dive in and discover the endless possibilities that await us in the realm of NX-powered product design.
+
 === Fundamental Modeling in NX
-.expand
-[%collapsible]
-====
-- Sketches:
-  - Creating sketches: Planes, orientations, best practices.
-  - Sketch constraints: Geometric and dimensional, ensuring fully defined sketches.
-  - Essential sketch tools (lines, arcs, circles, rectangles, splines, etc.).
-- Building Solid Models:
-  - Feature-based modeling: Explanation of the concept.
-  - Key feature creation tools: Extrude, revolve, sweep, hole, boss, pocket, etc.
-- Modifying Solids:
-  - Editing features, changing dimensions.
-  - Operations: Chamfer, fillet, patterns, shell, split, etc.
-====
+
+include::./chapters/ch06_modeling.adoc[]
+
 
 === Advanced NX Design Techniques
+
+include::./chapters/ch07_design.adoc[]
+
 .expand
 [%collapsible]
 ====
@@ -25,6 +31,9 @@
 ====
 
 === Assembly Design and Management
+
+include::./chapters/ch07_assembly.adoc[]
+
 .expand
 [%collapsible]
 ====
@@ -48,6 +57,9 @@
 ====
 
 === Drafting and Documentation in NX
+
+include::./chapters/ch08_drafting.adoc[]
+
 .expand
 [%collapsible]
 ====

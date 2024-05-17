@@ -1,6 +1,9 @@
 {
     "asciidoc.antora.enableAntoraSupport": true,
     "cSpell.words": [
-        "Teamcenter"
+        "teamcenter",
+        "manufacturability",
+        "transformative",
+        "toolset"
     ],
 }

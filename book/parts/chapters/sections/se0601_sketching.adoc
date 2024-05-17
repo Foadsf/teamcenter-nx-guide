@@ -1,0 +1,53 @@
+.expand
+[%collapsible]
+====
+
+Before a sculptor begins chiseling a masterpiece from a block of marble, they envision the form they wish to create. Similarly, before embarking on 3D modeling in NX, we must first capture our design ideas in the form of sketches – the two-dimensional blueprints that will guide our journey into the third dimension.
+
+This section explores the art of sketching in NX, equipping you with the essential skills and knowledge to translate your design concepts into precise and versatile 2D representations.  We'll delve into the concept of sketch planes, master the art of applying geometric and dimensional constraints to ensure fully defined designs, and become proficient in using NX's extensive library of sketching tools.
+
+From simple lines and arcs to complex splines and ellipses, you'll discover how to create the fundamental shapes that form the basis of all 3D models.  This mastery of sketching will empower you to confidently embark on your 3D modeling journey, knowing that you have a solid foundation to support your creative vision.
+
+////
+
+. Sketching in NX:  A Fundamental Skill
+   .. What is a Sketch?:  Define a sketch within the context of CAD and explain its importance as the foundation for 3D models. 
+   .. Benefits of Sketching:  Highlight the benefits of sketching, such as:
+      -  Visualizing Ideas:  Using sketches to explore and communicate design concepts.
+      -  Creating Precise Geometry:  Defining accurate shapes and dimensions for 3D modeling.
+      -  Parametric Control:  Establishing relationships and constraints for easy design modifications. 
+
+. Creating a Sketch in NX
+   .. Defining the Sketch Plane:
+      -  Selecting a Plane:  Explain how to choose the appropriate sketch plane (XY, XZ, YZ) for your design.
+      -  Creating a New Plane:  Demonstrate how to create a custom sketch plane using various methods (offset, through points, angle to plane, etc.).
+      -  Orientation:  Discuss the importance of sketch orientation and how to ensure it's correct for your design.
+   .. Using the Sketching Tools: 
+      -  Line:  Explain the line tool, options for creating lines (two-point, horizontal, vertical, etc.), and snapping to grid points.
+      -  Arc and Circle:  Introduce arc and circle tools, methods for creating them (center and radius, three-point, tangent, etc.), and specifying dimensions. 
+      -  Rectangle:  Demonstrate the rectangle tool, options for creating rectangles (two-point, center and corner, etc.), and setting dimensions.
+      -  Spline:  Explain spline creation (through points, control points), types of splines, and editing spline curves. 
+      -  Ellipse:  Introduce the ellipse tool, specifying major and minor axes, and constraints. 
+      -  Additional Tools:  Briefly mention other useful sketching tools, such as polygons, text, point, etc.
+
+. Sketch Constraints:  Ensuring Design Intent
+   .. Geometric Constraints: 
+      -  Coincident:  Explain the coincident constraint and its use for aligning points or endpoints. 
+      -  Parallel and Perpendicular:  Demonstrate parallel and perpendicular constraints for aligning lines or edges.
+      -  Tangent:  Show how to use tangent constraints for smooth transitions between curves. 
+      -  Concentric:  Explain the concentric constraint for aligning circles or arcs with a common center. 
+      -  Horizontal and Vertical:  Illustrate the use of horizontal and vertical constraints for aligning lines or edges. 
+   .. Dimensional Constraints:
+      -  Distance and Diameter:  Explain how to apply distance and diameter constraints to lines, arcs, and circles. 
+      -  Angle:  Demonstrate the angle constraint for defining angles between lines or edges.
+      -  Radius:  Show how to specify radius constraints for arcs and circles. 
+   .. Fully Defined Sketches:  Emphasize the importance of applying enough constraints to make sketches fully defined, preventing unintended changes during modeling. 
+
+**Note:**
+
+- **Screenshots:**  Include clear screenshots to illustrate the use of sketching tools, applying constraints, and examining the constraint status of a sketch.
+- **Practical Examples:**  Demonstrate sketching techniques with examples of simple shapes and real-world design elements.
+- **Best Practices:**  Offer tips on creating efficient sketches, choosing appropriate constraints, and maintaining a clean sketch environment
+
+////
+====

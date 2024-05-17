@@ -1,0 +1,28 @@
+In the realm of digital product development, the art of 3D modeling serves as the cornerstone upon which innovative designs are built. It is through the mastery of this craft that engineers and designers breathe life into their ideas, transforming abstract concepts into tangible, virtual representations. This chapter, "Fundamental Modeling in NX," serves as your gateway into this captivating world, equipping you with the essential skills and techniques needed to create robust, precise, and visually stunning 3D models.
+
+Siemens NX, a powerhouse in the CAD software industry, offers an unparalleled platform for honing your modeling prowess. With its intuitive interface, comprehensive toolset, and feature-based approach, NX empowers you to bring your designs to life with unmatched precision and flexibility. Whether you're a seasoned professional looking to refine your techniques or an eager novice embarking on your 3D modeling journey, this chapter will be your guide, illuminating the path to modeling mastery.
+
+Our exploration begins at the very foundation of 3D modeling: sketching. Much like an artist's initial pencil strokes on a canvas, sketches form the 2D basis upon which 3D models are constructed. We'll dive deep into the art of creating precise, fully constrained sketches, harnessing the power of NX's sketch tools and constraint system. You'll learn to navigate the sketching environment with ease, mastering the placement of sketch planes and the application of geometric and dimensional constraints. Through hands-on exercises, you'll develop proficiency in using a wide array of sketching tools, from basic lines and circles to advanced curves like splines and ellipses, enabling you to capture the essence of your design intent with precision and flexibility.
+
+With a solid foundation in sketching, we'll ascend to the realm of 3D modeling, where your 2D sketches will be transformed into solid, tangible forms. NX's feature-based modeling approach will be our guiding light, empowering you to create complex models through a series of intuitive, step-by-step operations. You'll master the art of using powerful feature creation tools like extrude, revolve, and sweep, sculpting your designs with precision and intent. As you manipulate these features, you'll discover the true power of parametric modeling, where each step in the design process is captured as a distinct, editable feature, allowing for seamless modifications and design iterations.
+
+As we progress through the chapter, you'll expand your modeling repertoire with essential operations like chamfer, fillet, and pattern. These tools will enable you to refine the form and aesthetics of your models, adding subtle details and visual interest. Through a series of carefully crafted exercises and real-world examples, you'll gain hands-on experience in applying these techniques to create a diverse range of parts, from simple geometric primitives to intricate, multi-featured designs.
+
+By the time you reach the end of this chapter, you'll have developed a robust understanding of the fundamental principles and techniques of modeling in NX. Your newfound skills will serve as a solid foundation upon which you can build, enabling you to tackle more advanced modeling challenges and explore the intricacies of assembly design in the chapters that follow. With practice and dedication, you'll find yourself confidently navigating the virtual world of NX, creating designs that push the boundaries of what's possible.
+
+So, let us embark on this transformative journey together, as we unlock the secrets of fundamental modeling in NX. Through a blend of theoretical knowledge and practical application, you'll develop the skills and confidence needed to bring your design visions to life. Get ready to unleash your creativity, hone your precision, and take your first steps towards becoming a master of 3D modeling in the world of NX.
+
+
+==== The Art of Sketching: Laying the Foundation for 3D Models in NX
+
+include::./sections/se0601_sketching.adoc[]
+
+
+==== From Sketch to Solid: Building 3D Models in NX
+
+include::./sections/se0602_solids.adoc[]
+
+
+==== Refining Your Designs: Modifying Solids in NX
+
+include::./sections/se0603_refine.adoc[]

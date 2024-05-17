@@ -1,0 +1,47 @@
+.expand
+[%collapsible]
+====
+
+Creating basic shapes is just the first step in the 3D modeling process.  To truly bring our designs to life, we need to refine those shapes, adding details, rounding edges, and creating intricate features. This is where NX's powerful tools for modifying solid bodies come into play, allowing us to sculpt our models with precision and artistry.
+
+This section explores the various techniques for modifying solid models in NX. We'll learn how to edit existing features, change dimensions parametrically, and apply a range of operations to transform basic shapes into complex and functional designs. From adding chamfers and fillets to creating patterns, shells, and splits, you'll discover how to leverage NX's powerful tools to achieve your design intent.
+
+By mastering these modification techniques, you'll not only enhance the visual appeal of your models, but also improve their manufacturability and functional performance.  We'll emphasize a hands-on approach throughout this section, encouraging you to experiment with different operations and discover the vast creative possibilities that NX offers for refining your 3D designs.
+
+////
+
+. Editing Existing Features
+   .. Feature History and the Part Navigator:  Reaffirm the concept of feature history and the role of the Part Navigator in displaying the sequence of modeling operations.
+   .. Modifying Feature Parameters: 
+      -  Selecting Features: Explain how to select features in the Part Navigator or graphics window for editing.
+      -  Changing Dimensions: Demonstrate how to modify feature dimensions directly or by editing the original sketch.
+      -  Updating Relationships:  Discuss how changes to one feature can affect subsequent features in the history and how to manage these relationships.
+   .. Reordering and Suppressing Features: 
+      -  Reordering:  Explain how to reorder features in the Part Navigator to change the modeling sequence.
+      -  Suppression:  Show how to suppress features to temporarily remove them from the model without deleting them.
+
+. Applying Operations to Solids
+   .. Chamfer:
+      -  Purpose: Explain the Chamfer command's use for creating angled edges on a solid model. 
+      -  Options: Demonstrate different chamfer types (angle-distance, distance-distance, vertex), selecting edges, and previewing the results.
+   .. Fillet: 
+      -  Purpose: Explain the Fillet command for creating rounded edges or smooth transitions between surfaces. 
+      -  Options: Show options for fillet types (constant radius, variable radius), selecting edges, and controlling the fillet profile.
+   .. Pattern: 
+      -  Purpose: Describe the Pattern command for creating multiple copies of features in a linear or circular arrangement.
+      -  Options: Demonstrate linear and circular patterns, specifying the number of instances, spacing, and direction.
+   .. Shell: 
+      -  Purpose: Explain the Shell command for creating thin-walled hollow objects from solid models. 
+      -  Options:  Show how to select faces to remove, specify shell thickness, and create internal or external shells.
+   .. Split: 
+      -  Purpose:  Describe the Split command for dividing a solid model into multiple bodies using planes or surfaces. 
+      -  Options:  Demonstrate splitting with planes, surfaces, or curves, and selecting the desired resulting bodies. 
+
+**Note:**
+
+- **Visual Aids:**  Include screenshots or diagrams to illustrate the effects of editing features, changing dimensions, and applying operations.
+- **Practical Exercises:**  Provide exercises that involve modifying existing models by changing dimensions, adding chamfers and fillets, creating patterns, and applying other operations.
+- **Best Practices:**  Offer tips on managing feature history effectively, avoiding unintended consequences when editing features, and using operations to achieve specific design goals.
+
+////
+====

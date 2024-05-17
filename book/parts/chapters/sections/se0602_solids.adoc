@@ -1,0 +1,47 @@
+.expand
+[%collapsible]
+====
+
+With our 2D sketches as blueprints, we now embark on the exciting journey of building three-dimensional solid models in NX. This is where our designs truly come to life, taking on shape, form, and functionality within the virtual world of CAD.
+
+This section delves into the core principles of solid modeling in NX, introducing you to the concept of feature-based design. We'll explore how each step in the modeling process is captured as a distinct feature, building upon the previous one to create a history of operations that can be easily modified and controlled.  You'll master the use of key feature creation tools, transforming your sketches into solid objects with precision and ease.
+
+From the classic extrude and revolve commands to more advanced techniques like sweep, hole, boss, and pocket, you'll gain the skills to build a wide range of 3D shapes, adding complexity and detail to your designs. By the end of this section, you'll be well-equipped to navigate the world of solid modeling in NX, confident in your ability to create compelling 3D representations of your product ideas.
+
+////
+
+.  Feature-Based Modeling: The NX Approach
+   ..  The Concept: Explain the fundamental concept of feature-based modeling, emphasizing:
+      -  Sequential Feature Creation: How models are built by adding features one after another, creating a history of operations.
+      -  Parametric Design:  How feature dimensions and relationships can be controlled through parameters for easy modifications.
+      -  The Part Navigator:  How the Part Navigator displays the feature history, allowing you to edit or reorder features.
+
+.  Essential Feature Creation Tools
+   ..  Extrude: 
+      -  Purpose:  Explain the Extrude command's use for creating solids from sketches by adding depth along a direction. 
+      -  Options:  Demonstrate options for extruding: direction, distance (blind, through all, to next, etc.), taper angle, and Boolean operations (add, subtract, intersect).
+   ..  Revolve: 
+      -  Purpose:  Explain the Revolve command for creating axisymmetric solids by rotating a sketch around an axis.
+      -  Options:  Show options for revolving: axis of revolution, angle of revolution (full, partial), and Boolean operations.
+   ..  Sweep: 
+      -  Purpose:  Describe the Sweep command for creating solids by sweeping a profile along a path.
+      -  Options:  Demonstrate options for sweeping: profile selection, path selection, guide curves (for controlling profile orientation), and Boolean operations. 
+   ..  Hole:
+      -  Purpose:  Explain the Hole command for creating various types of holes (simple, counterbored, countersunk) in solid models. 
+      -  Options:  Show how to define hole parameters (diameter, depth, angle, countersink/counterbore dimensions) and positioning methods. 
+   ..  Boss and Pad:
+      -  Purpose:  Describe Boss and Pad commands for adding protrusions to a solid model. 
+      -  Options:  Explain options for defining boss/pad shapes (circular, rectangular, from sketch) and controlling their size, position, and taper. 
+   ..  Pocket: 
+      -  Purpose:  Explain the Pocket command for removing material from a solid model to create a recess. 
+      -  Options:  Describe options for defining pocket shapes (circular, rectangular, from sketch), depth, and Boolean operations.
+
+**Note:**
+
+- **Clear Illustrations:**  Include detailed screenshots or diagrams to illustrate each feature creation process, highlighting key parameters and options.
+- **Step-by-Step Examples:**  Provide step-by-step instructions for creating simple parts using these features.
+- **Troubleshooting:**  Address common errors or issues encountered during feature creation (e.g., invalid sketch profiles, intersecting geometry). 
+- **Best Practices:**  Offer tips for selecting appropriate feature creation tools based on the desired geometry and design intent. 
+
+////
+====
