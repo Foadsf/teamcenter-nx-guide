@@ -22,11 +22,9 @@ include::./chapters/ch06_modeling.adoc[]
 include::./chapters/ch07_design.adoc[]
 
 
-
 === Assembly Design and Management
 
 include::./chapters/ch08_assembly.adoc[]
-
 
 
 === Drafting and Documentation in NX

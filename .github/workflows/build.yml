@@ -28,7 +28,7 @@ jobs:
       run: asciidoctor -o docs/index.html book/book.adoc
 
     - name: Build PDF
-      run: asciidoctor-pdf -a pdf-style=./theme/theme.yml -o docs/book.pdf book/book.adoc
+      run: asciidoctor-pdf -a pdf-style=./theme/theme.yml -a front-cover-image=images/cover.jpg -o docs/book.pdf book/book.adoc
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
