@@ -1,0 +1,13 @@
+.expand
+[%collapsible]
+====
+- Creating Drawings:
+  - Views: Automatic view creation (base, projected, section, auxiliary, etc.).
+  - Dimensioning and Annotation: Tools and standards.
+  - Drawing Templates: Using and customizing templates.
+- Linking to Teamcenter:
+  - Managing drawing revisions within Teamcenter.
+  - Linking drawings to parts and assemblies.
+- Best Practices: Tips for generating clear and concise drawings, applying appropriate dimensioning standards, and efficiently linking drawings to Teamcenter data.
+- Hands-on Exercise: Creating a detailed drawing of an assembly with multiple views and annotations.
+====

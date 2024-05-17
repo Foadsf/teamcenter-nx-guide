@@ -1,0 +1,50 @@
+.expand
+[%collapsible]
+====
+
+While traditional solid modeling excels at creating prismatic shapes and well-defined geometries, many product designs demand a more organic, free-flowing approach. From the sleek curves of a car body to the ergonomic contours of a consumer product, freeform modeling empowers designers to sculpt shapes with artistic freedom, mimicking the organic flow of nature or the dynamic lines of human-made objects.
+
+This section delves into the world of freeform surface modeling in NX, exploring a range of powerful tools and techniques for creating smooth, continuous surfaces. We'll move beyond the constraints of solid modeling, discovering how to manipulate curves, blend surfaces, and create complex shapes that capture the essence of fluid, organic forms.
+
+Whether you're designing aesthetically pleasing consumer products, aerodynamic components for high-performance vehicles, or simply seeking to expand your modeling repertoire, this exploration of freeform surface modeling will unlock new possibilities for creative expression in NX. 
+
+////
+
+.  Introduction to Freeform Modeling
+   ..  What is Freeform Modeling?: Define freeform modeling and its distinction from traditional solid modeling. Emphasize the use of curves and surfaces to create organic shapes. 
+   ..  Applications of Freeform Modeling:  Highlight industries and products where freeform modeling is commonly used (e.g., automotive design, consumer goods, aerospace). 
+   ..  NX Tools for Freeform Surfaces: Briefly introduce the core NX modules and tools for surface creation and manipulation.
+
+.  Creating Surfaces from Curves
+   ..  Ruled Surface: 
+      -  Purpose: Explain the Ruled Surface command for creating a surface that smoothly connects two curves. 
+      -  Options:  Demonstrate different ruled surface types (linear, cylindrical, conical), selecting curves, and controlling surface parameters (e.g., tangency, twist).
+   ..  Through Curves: 
+      -  Purpose:  Describe the Through Curves command for creating a surface that passes through multiple curves. 
+      -  Options:  Show how to select curves, define surface continuity, and adjust surface tension.
+
+.  Building Surfaces from Sections 
+   ..  Through Section:
+      -  Purpose:  Explain the Through Section command for creating a surface by interpolating a series of cross-sectional curves (sections). 
+      -  Options:  Demonstrate how to define sections, control surface continuity, and adjust surface tension.
+   ..  Variable Section Sweep: 
+      -  Purpose:  Describe the Variable Section Sweep command for creating a surface by sweeping a section along a path, allowing the section to change shape along the sweep.
+      -  Options:  Show how to define sections, paths, guide curves, and control surface properties (e.g., twist, scale).
+
+.  Advanced Surface Manipulation
+   ..  Blending Surfaces:  
+      -  Purpose:  Explain how to blend multiple surfaces together to create smooth transitions. 
+      -  Options:  Demonstrate different blending types (tangent, curvature continuous), controlling blend radius, and adjusting surface tension. 
+   ..  Surface Editing:
+      -  Trim and Extend:  Show how to trim and extend surfaces using curves, planes, or other surfaces. 
+      -  Offset: Explain the Offset command for creating a surface that is offset from an existing surface by a specified distance.
+
+**Note:**
+
+- **Visuals:**  Include plenty of diagrams, illustrations, and screenshots to help readers visualize the surface creation process. 
+- **Examples:**  Provide clear examples that showcase the use of freeform modeling tools to create realistic design elements (e.g., a car fender, a phone casing).
+- **Best Practices:**  Offer tips on choosing appropriate freeform modeling techniques based on the desired surface shape and complexity.
+- **Troubleshooting:**  Address potential challenges, such as creating surfaces with smooth transitions or avoiding surface discontinuities. 
+
+////
+====

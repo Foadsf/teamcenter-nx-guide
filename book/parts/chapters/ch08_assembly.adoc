@@ -1,0 +1,21 @@
+.expand
+[%collapsible]
+====
+- Building Assemblies:
+  - Adding components, positioning, constraints.
+  - Working with the Assembly Navigator for organization.
+  - Bottom-up vs. Top-Down Assembly Design.
+- Assembly Constraints:
+  - Types of constraints (mate, align, orient, etc.) and degrees of freedom.
+  - Best practices for defining robust constraints.
+- Advanced Assembly Features:
+  - Wave Linking: Copying geometry and establishing dependencies between parts.
+  - Master Model Concept in Assemblies: Benefits and how to use it effectively.
+  - Reference Sets in Assemblies: Managing display complexity.
+- Analysis:
+  - Interference checking, clearance analysis, and reporting.
+  - Creating exploded views for documentation and assembly instructions.
+  - Assembly sequencing for manufacturing planning.
+- Best Practices: Techniques for managing large assemblies, selecting appropriate constraints, and simplifying assembly visualization.
+- Hands-on Exercise: Assembling multiple parts with various constraints and performing interference analysis.
+====

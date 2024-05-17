@@ -1,0 +1,62 @@
+.expand
+[%collapsible]
+====
+
+Sheet metal components are ubiquitous in modern products, from the sleek enclosures of electronic devices to the intricate panels of automobiles and aircraft. Designing these parts presents unique challenges, requiring specialized tools and knowledge to ensure that they are not only aesthetically pleasing but also manufacturable using common sheet metal fabrication processes.
+
+This section explores the world of sheet metal design in NX, introducing a powerful set of features specifically tailored for creating and analyzing these unique components.  We'll move beyond the realm of solid modeling, learning how to create flanges, bends, tabs, and other sheet metal elements with precision and efficiency. NX's dedicated sheet metal environment empowers you to develop designs that can be easily unfolded, flattened, and manufactured using standard sheet metal fabrication techniques. 
+
+Whether you're designing enclosures, brackets, panels, or any other sheet metal component, this section equips you with the tools and knowledge to create manufacturable designs, streamline your workflow, and ensure that your virtual creations can be seamlessly translated into real-world products.
+
+////
+
+. Introduction to Sheet Metal Design
+   .. What is Sheet Metal?: Define sheet metal and its characteristics (thin, flat material typically formed by bending, cutting, and punching).
+   .. Applications of Sheet Metal:  Highlight industries and products where sheet metal is commonly used (e.g., automotive, aerospace, electronics, consumer goods).
+   .. Advantages of Sheet Metal:  Discuss the advantages of sheet metal, such as:
+      - Lightweight
+      - Durable
+      - Cost-Effective for Mass Production
+      -  Versatile for Creating Complex Shapes
+
+. NX Sheet Metal Environment 
+   ..  Launching the Sheet Metal Module:  Explain how to activate the dedicated sheet metal environment in NX.
+   ..  Sheet Metal Parameters: 
+      -  Material Thickness:  Show how to define the sheet metal thickness, a fundamental parameter for all sheet metal features.
+      -  Bend Radius:  Explain the concept of bend radius and how to set it globally or for individual bends.
+      -  K-Factor:  Introduce the K-factor and its role in accurately calculating bend allowances for unfolding.
+   ..  Sheet Metal Features Toolbar:  Provide an overview of the specialized sheet metal tools in the NX toolbar, briefly describing their functions.
+
+. Creating Sheet Metal Features
+   ..  Base Flange:
+      -  Purpose:  Explain the Base Flange command for creating the initial flat sheet metal shape.
+      -  Options:  Demonstrate how to create a base flange from a sketch, specifying dimensions and material thickness.
+   ..  Flange: 
+      -  Purpose:  Describe the Flange command for adding flanges to an existing sheet metal part, creating bends and angled extensions.
+      -  Options:  Show how to define flange dimensions (length, angle, position), control bend radius, and apply relief cuts. 
+   ..  Tabs: 
+      -  Purpose: Explain how to create tabs for joining sheet metal parts together. 
+      -  Options:  Demonstrate different tab types (rectangular, round, tear-drop) and how to define their size and position.
+   ..  Bend: 
+      -  Purpose:  Describe the Bend command for creating simple bends along a line in a sheet metal part. 
+      -  Options:  Show how to define the bend axis, bend angle, and bend radius.
+   ..  Holes: 
+      -  Purpose: Explain how to create holes in sheet metal parts. 
+      -  Options:  Demonstrate different hole types (simple, countersunk, counterbored) and how to define their parameters and position.
+
+. Unfolding and Flattening
+   ..  Unfold Command: 
+      -  Purpose: Explain the Unfold command for flattening a sheet metal part into its 2D representation for manufacturing.
+      -  Options: Show how to create an unfolded view, add bend lines and notes, and customize the flat pattern layout.
+   ..  Flat Pattern Analysis: 
+      -  Purpose:  Describe tools for analyzing the unfolded flat pattern, including bend allowance calculations and collision detection. 
+
+**Note:**
+
+- **Visuals:**  Use clear diagrams, illustrations, and screenshots to demonstrate sheet metal features, unfolding processes, and flat pattern analysis.
+- **Examples:**  Provide practical exercises that involve creating common sheet metal parts (e.g., a simple bracket, an enclosure) and unfolding them. 
+- **Best Practices:** Offer advice on designing sheet metal parts for manufacturability, selecting appropriate bend radii and K-factors, and avoiding common design pitfalls. 
+
+
+////
+====

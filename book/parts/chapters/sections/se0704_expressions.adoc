@@ -1,0 +1,45 @@
+.expand
+[%collapsible]
+====
+
+Imagine a design that adapts effortlessly to changing requirements, where dimensions update automatically, relationships between features are maintained, and design intent is preserved throughout modifications. This is the power of parametric modeling, and NX's expression capability takes it to the next level, providing a flexible and intuitive way to control your designs through variables, formulas, and relationships.
+
+This section delves into the world of NX expressions, equipping you with the skills to create intelligent models that respond dynamically to design changes. We'll explore the fundamental concepts of expressions, learn how to define formulas, link parameters, and drive design intent with precision and control. 
+
+Whether you're exploring design variations, optimizing dimensions for performance, or simply seeking to streamline your modeling workflow, NX expressions provide the tools to create adaptable and robust models that reflect your design vision.
+
+////
+
+. Introduction to NX Expressions
+   .. What are Expressions?: Define expressions within the context of NX, explaining how they link parameters and formulas to drive design changes.
+   .. Benefits of Using Expressions:  Highlight the key advantages of parametric design with expressions:
+      - Design Flexibility: Easily explore design variations by changing parameter values.
+      - Time Savings: Automate design modifications and eliminate manual rework. 
+      - Design Optimization:  Use expressions to define relationships that optimize performance or manufacturability.
+      -  Error Reduction:  Minimize errors by ensuring consistent relationships between design elements.
+
+. Creating and Managing Expressions
+   .. Accessing the Expression Editor: Explain how to open the Expression Editor in NX.
+   ..  Defining Variables: Demonstrate how to create and name variables to represent design parameters.
+   ..  Building Formulas: Show how to create formulas using arithmetic operators, functions, and logical expressions.
+   ..  Linking to Dimensions and Features: Explain how to link expressions to dimensions, features, and other model parameters. 
+
+.  Practical Applications of Expressions
+   ..  Driving Dimensional Changes:  Demonstrate how to use expressions to drive changes in part dimensions, ensuring that related features update automatically. 
+   ..  Controlling Feature Relationships:  Show how to use expressions to define relationships between features, such as maintaining alignment or tangency. 
+   ..  Creating Design Tables:  Explain how to create design tables that allow you to explore multiple design variations by changing parameter values. 
+
+. Best Practices for Using Expressions
+   ..  Clear Naming Conventions:  Emphasize the importance of using clear and descriptive names for variables and expressions. 
+   ..  Logical Formula Structure:  Offer tips on organizing formulas for readability and ease of understanding. 
+   ..  Error Checking and Validation:  Discuss methods for checking expressions for errors and ensuring they produce the desired results. 
+   ..  Documentation:  Stress the importance of documenting expressions to facilitate understanding and future modifications.
+
+**Note:**
+
+- **Examples:**  Provide clear examples of expressions for common design scenarios, such as controlling hole positions, maintaining clearances, or scaling features proportionally.
+- **Screenshots:**  Include screenshots of the Expression Editor, formula creation, and the effects of parameter changes on the model.
+- **Tips and Troubleshooting:**  Offer guidance on common expression errors, debugging techniques, and best practices for creating robust and reliable parametric models. 
+
+////
+====
