@@ -1,4 +1,4 @@
-name: Build AsciiDoc to HTML
+name: Build AsciiDoc to HTML and PDF
 
 on:
   push:
@@ -7,6 +7,8 @@ on:
   pull_request:
     branches:
       - main
+  release:
+    types: [created]
 
 permissions:
   contents: write
@@ -18,14 +20,41 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    - name: Set up Asciidoctor
-      run: sudo apt-get install -y asciidoctor
+    - name: Set up Asciidoctor and Asciidoctor PDF
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y asciidoctor
+        sudo gem install asciidoctor-pdf
 
     - name: Build HTML
       run: asciidoctor -o docs/index.html book/book.adoc
+
+    - name: Build PDF
+      run: asciidoctor-pdf -a pdf-style=./theme/theme.yml -o docs/book.pdf book/book.adoc
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GH_TOKEN }}
         publish_dir: ./docs
+
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      with:
+        tag_name: ${{ github.ref }}
+        release_name: Release ${{ github.ref }}
+        draft: false
+        prerelease: false
+
+    - name: Upload PDF to Release
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./docs/book.pdf
+        asset_name: book.pdf
+        asset_content_type: application/pdf
