@@ -1,2 +1,65 @@
-# teamcenter-nx-guide
-A comprehensive guide to using Siemens NX CAD/CAM/CAE and Teamcenter PDM/PLM for efficient product design and development.
+= Mastering Product Design and Development with NX and Teamcenter: A Comprehensive Guide
+:toc:
+:toclevels: 2
+
+image:https://img.shields.io/badge/license-CC%20BY--NC--ND-blue[link="https://creativecommons.org/licenses/by-nc-nd/4.0/"]
+image:https://img.shields.io/github/sponsors/Foadsf[GitHub Sponsors]
+image:https://img.shields.io/badge/-Patreon-red[link="https://www.patreon.com/user?u=4281332"]
+
+Welcome to the GitHub repository for "Mastering Product Design and Development with NX and Teamcenter: A Comprehensive Guide"! This book is your ultimate resource for learning and mastering Siemens NX (CAD/CAM/CAE) and Teamcenter (EDM/PDM/PLM) for efficient product design and development.
+
+== Read the Book
+
+You can access the book in two ways:
+
+1. Read the book online at https://foadsf.github.io/teamcenter-nx-guide/[web page].
+2. Download the PDF version from the https://github.com/Foadsf/teamcenter-nx-guide/releases[releases page].
+
+== Getting Help and Support
+
+If you have any questions, issues, or suggestions related to the book or this repository, please:
+
+1. Create an issue in the https://github.com/Foadsf/teamcenter-nx-guide/issues[issue section] of this GitHub repository.
+2. Reach out to the author, Foad S. Farimani, via email or Twitter (links provided below).
+
+You can also join the Discord channels for https://discord.gg/S6xDRJvSkv[Teamcenter] and https://discord.gg/4edURH8vbM[NX] to connect with the community and get help from other users.
+
+== Supporting the Project
+
+If you find this book valuable and would like to support the author, you can:
+
+1. Become a sponsor on https://github.com/sponsors/Foadsf[GitHub Sponsors].
+2. Support the project on https://www.patreon.com/user?u=4281332[Patreon].
+3. Star this GitHub repository to show your appreciation.
+4. Spread the word and introduce the book to others who might benefit from it.
+5. Contribute to the project by submitting pull requests for improvements, corrections, or new content.
+
+== License
+
+This book is published under the https://creativecommons.org/licenses/by-nc-nd/4.0/[Creative Commons CC BY-NC-ND license]. Please consider the terms of this license if you wish to modify, redistribute, or use the book commercially.
+
+== About the Author
+
+Foad S. Farimani is an experienced engineer and a passionate advocate for advanced product design and development techniques. With years of hands-on experience using Siemens NX and Teamcenter, Foad has helped numerous organizations streamline their product development processes and drive innovation.
+
+You can connect with Foad via:
+
+- Email: f.s.farimani@gmail.com
+- Twitter: https://x.com/fsfarimani[@fsfarimani]
+- LinkedIn: https://www.linkedin.com/in/fsfarimani/[Foad S. Farimani]
+
+////
+== Contributing
+
+Contributions to this project are welcome! If you find any errors, have suggestions for improvements, or would like to add new content, please submit a pull request. Be sure to follow the https://github.com/Foadsf/teamcenter-nx-guide/blob/main/CONTRIBUTING.md[contribution guidelines].
+
+
+== Acknowledgements
+
+[Optional section to acknowledge any individuals, organizations, or resources that have contributed to or supported the creation of this book.]
+
+////
+
+== Disclaimer
+
+The information provided in this book is for educational purposes only. The author makes no representations or warranties with respect to the accuracy or completeness of the contents of this book and specifically disclaim any implied warranties of merchantability or fitness for a particular purpose. The advice and strategies contained herein may not be suitable for every situation. The author shall not be liable for any loss of profit or any other commercial damages, including but not limited to special, incidental, consequential, or other damages.
