@@ -18,8 +18,8 @@ By the end of Part 2, you'll be a proficient Teamcenter user, equipped with the 
 
 With the knowledge and skills gained from this part, you'll be ready to harness the full potential of Teamcenter in conjunction with NX, unlocking the power of these integrated solutions to drive innovation, improve product quality, and deliver exceptional products to market. As you continue your journey through this book, you'll be well-prepared to tackle the challenges of modern product development and lead your organization towards a more efficient, collaborative, and data-driven future.
 
-=== 4. Managing Product Data in Teamcenter
+=== Managing Product Data in Teamcenter
 include::./chapters/ch04_managing.adoc[]
 
-=== 5. Advanced Teamcenter Techniques
+=== Advanced Teamcenter Techniques
 include::./chapters/ch05_advanced.adoc[]

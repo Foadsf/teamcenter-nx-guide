@@ -12,11 +12,11 @@ By the end of Part 1, you'll have a strong grasp of the core principles of PLM, 
 
 As you progress through this book, you'll gain the skills and knowledge needed to leverage PLM effectively, streamline your product development processes, and drive innovation within your organization. So, let's dive in and lay the foundation for your success in the world of digital product development!
 
-=== 1. Introduction to Product Lifecycle Management
+=== Introduction to Product Lifecycle Management
 include::./chapters/ch01_introduction.adoc[]
 
-=== 2. Teamcenter: The Core of Data Management
+=== Teamcenter: The Core of Data Management
 include::./chapters/ch02_teamcenter.adoc[]
 
-=== 3. NX: Your Design and Engineering Powerhouse
+=== NX: Your Design and Engineering Powerhouse
 include::./chapters/ch03_nx.adoc[]

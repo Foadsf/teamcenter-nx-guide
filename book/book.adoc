@@ -9,20 +9,21 @@
 :icons:
 :data-uri:
 :lang: en
+:sectnums:
 
 :parts_dir: ./parts
 :chapters_dir: ./parts/chapters
 
-== Part 1: Foundations of Product Lifecycle Management
+== Foundations of Product Lifecycle Management
 include::{parts_dir}/pa01_foundations.adoc[]
 
-== Part 2: Practical Teamcenter for Product Development
+== Practical Teamcenter for Product Development
 include::{parts_dir}/pa02_practical.adoc[]
 
-== Part 3: Mastering NX for Product Design
+== Mastering NX for Product Design
 include::{parts_dir}/pa03_nx.adoc[]
 
-== Part 4: Last Part
+== Last Part
 include::{parts_dir}/pa04_last.adoc[]
 
 

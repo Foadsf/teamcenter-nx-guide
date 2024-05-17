@@ -1,4 +1,4 @@
-=== 10. Collaborative Design and Data Sharing
+=== Collaborative Design and Data Sharing
 .expand
 [%collapsible]
 ====
@@ -15,7 +15,7 @@
 - Hands-on Exercise: Using WAVE linking to create dependencies between parts and configuring different assembly variants.
 ====
 
-=== 11. Teamcenter Administration
+=== Teamcenter Administration
 .expand
 [%collapsible]
 ====
@@ -30,7 +30,7 @@
 - Best Practices: Administrative tips for setting up efficient workflows, maintaining data integrity, and managing user access.
 ====
 
-=== 12. Conclusion
+=== Conclusion
 .expand
 [%collapsible]
 ====

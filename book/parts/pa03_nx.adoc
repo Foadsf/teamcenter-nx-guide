@@ -1,4 +1,4 @@
-=== 6. Fundamental Modeling in NX
+=== Fundamental Modeling in NX
 .expand
 [%collapsible]
 ====
@@ -14,7 +14,7 @@
   - Operations: Chamfer, fillet, patterns, shell, split, etc.
 ====
 
-=== 7. Advanced NX Design Techniques
+=== Advanced NX Design Techniques
 .expand
 [%collapsible]
 ====
@@ -24,7 +24,7 @@
 - Working with Expressions: Parametric control using expressions and formulas.
 ====
 
-=== 8. Assembly Design and Management
+=== Assembly Design and Management
 .expand
 [%collapsible]
 ====
@@ -47,7 +47,7 @@
 - Hands-on Exercise: Assembling multiple parts with various constraints and performing interference analysis.
 ====
 
-=== 9. Drafting and Documentation in NX
+=== Drafting and Documentation in NX
 .expand
 [%collapsible]
 ====
