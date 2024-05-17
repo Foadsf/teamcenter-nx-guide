@@ -1,3 +1,7 @@
+.expand
+[%collapsible]
+====
+
 Now that you have a foundational understanding of Teamcenter's architecture and have successfully installed and configured the system, it's time to put your knowledge into practice. This hands-on exercise will guide you through the basic operations of creating folders, items, and datasets within Teamcenter, giving you a taste of its data management capabilities.
 
 We'll start by creating a simple folder structure to organize our product data. Then, we'll create an item to represent a product and associate a dataset with it, representing a design file or document. By following these steps, you'll gain practical experience with the core building blocks of Teamcenter and be well-prepared to explore its more advanced features in the subsequent chapters.
@@ -5,7 +9,7 @@ We'll start by creating a simple folder structure to organize our product data. 
 Remember, learning by doing is the most effective way to master new software. Don't hesitate to experiment and explore beyond the instructions provided. Teamcenter's intuitive interface makes it easy to navigate and discover its functionalities.
 
 
-
+////
 **2.8. Exercise: Creating Folders, Items, and Datasets**
 
    - **2.8.1.  Launching the Teamcenter Rich Client:** Provide a quick reminder of how to launch the Rich Client and log in.
@@ -33,4 +37,5 @@ Remember, learning by doing is the most effective way to master new software. Do
 **2.9. Reviewing Your Work**
    -  **2.9.1.  Viewing the Folder Structure:**  Guide users to view their newly created folder structure in the Teamcenter Navigator.
    -  **2.9.2.  Examining the Item and Dataset:**  Instruct users to open the item and view its properties, including the associated dataset. 
-
+////
+====

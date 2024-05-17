@@ -1,3 +1,7 @@
+.expand
+[%collapsible]
+====
+
 Teamcenter, at its core, is a system for managing and organizing product information. To do this effectively, it uses a set of fundamental objects, each representing a specific type of data or a way to structure that data.  These core objects form the building blocks of the Teamcenter ecosystem, providing the foundation for managing everything from simple parts to complex product assemblies and all their associated information.
 
 This section provides a deep dive into these essential Teamcenter objects, explaining their purpose, attributes, and how they relate to one another. We'll explore items and their revisions, which are central to version control and managing the evolution of product designs. We'll examine datasets, which encompass the various types of files and documents that make up our product knowledge. 
@@ -5,7 +9,7 @@ This section provides a deep dive into these essential Teamcenter objects, expla
 We'll also look at folders, which provide the organizational structure for our data, and discuss the crucial concepts of variants and alternatives, which allow us to manage different configurations and design options within Teamcenter. By mastering these building blocks, you'll be well-prepared to create a well-structured and easily navigable Teamcenter environment for your product development needs.
 
 
-
+////
 **4.1. Items and Revisions: The Heart of Version Control**
    - **4.1.1. What is an Item?**
      - Define items as the fundamental objects representing products or components in Teamcenter.
@@ -53,3 +57,5 @@ We'll also look at folders, which provide the organizational structure for our d
    - **4.4.3. Distinguishing Variants and Alternatives:** 
       - Provide clear examples to illustrate the difference between variants and alternatives, emphasizing their respective purposes. 
 
+////
+====

@@ -1,7 +1,3 @@
-.expand
-[%collapsible]
-====
-
 In the realm of digital product development, data reigns supreme. It is the lifeblood that flows through every stage of the product lifecycle, from the initial spark of an idea to the final stages of manufacturing, service, and eventual retirement. Effective data management is paramount for success, particularly as products grow in complexity and development teams become more globally dispersed. This is where Siemens Teamcenter emerges as a transformative solution, offering a robust and comprehensive platform for managing product data throughout its entire journey.
 
 "Chapter 2: Teamcenter: The Core of Data Management" takes you to the heart of this powerful Product Lifecycle Management (PLM) system, equipping you with the knowledge and skills to harness its capabilities for efficient and collaborative product development. We'll explore the fundamental concepts that underpin Teamcenter, from its core objects and data structures to its user-friendly interface and advanced functionalities. Through hands-on exercises and real-world examples, you'll gain practical experience in leveraging Teamcenter to streamline your data management processes.
@@ -16,7 +12,6 @@ Real-world case studies and success stories will illustrate the tangible benefit
 
 By the end of Chapter 2, you'll be well-versed in the fundamentals of Teamcenter, equipped with the knowledge and practical skills to manage product data effectively, foster collaboration, and drive efficient product development processes. You'll be ready to take your expertise to the next level, exploring the powerful integration between Teamcenter and NX, the leading CAD/CAM/CAE system from Siemens PLM Software. With a solid understanding of Teamcenter's data management capabilities, you'll be poised to unlock the full potential of digital product development and propel your organization to new heights of innovation and success.
 
-////
 
 ==== Teamcenter Unveiled: A Data Management Powerhouse
 
@@ -36,7 +31,3 @@ include::./sections/se0203_installing.adoc[]
 ==== Your First Steps in Teamcenter: A Hands-on Exercise
 
 include::./sections/se0204_hands.adoc[]
-
-
-////
-====

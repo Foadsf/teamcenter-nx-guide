@@ -1,10 +1,14 @@
+.expand
+[%collapsible]
+====
+
 Now that you have a general understanding of Siemens NX's impressive capabilities, it's time to roll up your sleeves and get acquainted with the software itself. This section will guide you through the fundamental concepts of working with NX, laying a solid groundwork for your design and engineering journey.
 
 We'll start by exploring the NX interface, uncovering its key components and learning how to navigate its various menus, toolbars, and windows. You'll discover how to customize your workspace to suit your preferences and workflow, maximizing efficiency and productivity. Then, we'll introduce the basic modeling tools and approaches, providing a foundation for creating simple 3D parts.
 
 Finally, we'll delve into the different types of files you'll encounter in NX – part files, assembly files, and drawing files – understanding their purpose, structure, and how they interact within the NX environment.  By mastering these fundamental concepts, you'll be well-equipped to embark on more complex design and engineering tasks in the upcoming chapters.
 
-
+////
 **3.4. Navigating the NX Interface**
    - **3.4.1. Key Components:** Identify and explain the main elements of the NX interface, including:
       - Menu Bar
@@ -41,3 +45,5 @@ Finally, we'll delve into the different types of files you'll encounter in NX �
    - **3.6.2. Assembly Files:** Describe assembly files (.asm) and how they link together multiple part files to create complex structures. 
    - **3.6.3. Drawing Files:**  Explain drawing files (.dft) and their role in generating 2D documentation from 3D models. 
 
+////
+====

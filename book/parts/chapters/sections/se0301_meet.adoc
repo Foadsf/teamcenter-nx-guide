@@ -1,10 +1,14 @@
+.expand
+[%collapsible]
+====
+
 In the realm of digital product development, few software packages can match the breadth and depth of capabilities offered by Siemens NX. As a fully integrated CAD/CAM/CAE system, NX empowers engineers and designers to tackle every stage of the product development process, from conceptual design and 3D modeling to simulation, analysis, manufacturing, and documentation.
 
 This section provides a comprehensive overview of NX, introducing its core modules, exploring its strengths, and highlighting its versatility in serving a wide range of industries. We'll examine how NX seamlessly integrates design, engineering, and manufacturing workflows, enabling companies to accelerate innovation, optimize product performance, and streamline production processes. 
 
 Whether you're a mechanical engineer designing complex assemblies, an industrial designer crafting aesthetically pleasing products, or a manufacturing engineer planning efficient production processes, NX provides the tools and functionalities to bring your vision to life with precision and efficiency. 
 
-
+////
 **3.1.  What is NX?**
    - **3.1.1.  Definition:**  Define NX as a comprehensive CAD/CAM/CAE system, emphasizing its integrated approach to product development.
    - **3.1.2. Core Functionalities:**  Outline the key functionalities of NX, including:
@@ -42,3 +46,5 @@ Whether you're a mechanical engineer designing complex assemblies, an industrial
       - Consumer Products
       - Medical Devices 
 
+////
+====

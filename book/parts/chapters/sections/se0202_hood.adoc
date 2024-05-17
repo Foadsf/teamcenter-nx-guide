@@ -1,10 +1,14 @@
+.expand
+[%collapsible]
+====
+
 Before we dive into the practical applications of Teamcenter and explore its vast array of features, it's crucial to understand the underlying architecture that powers this robust PLM system. Just as a well-designed building relies on a strong foundation, Teamcenter's capabilities stem from its client-server structure, its database management system, and the way data is organized, stored, and accessed.
 
 This section provides a glimpse "under the hood" of Teamcenter, explaining its fundamental architectural principles. We'll examine the interaction between clients and servers, the role of databases in storing and managing product information, and how users interact with the system to access and manipulate data.
 
 Whether you're a system administrator responsible for setting up and maintaining Teamcenter, a developer seeking to extend its functionalities, or simply a curious user wanting to understand how the system works, this exploration of Teamcenter's architecture will provide valuable insights. 
 
-
+////
 **2.1. The Client-Server Model**
    - **2.1.1. Teamcenter Clients:** Explain the different types of Teamcenter clients (Rich Client, Thin Client, integrations with CAD software like NX) and how users interact with the system through these interfaces.
    - **2.1.2. Teamcenter Server:** Describe the role of the Teamcenter server in processing requests, managing data, and communicating with clients. 
@@ -20,3 +24,5 @@ Whether you're a system administrator responsible for setting up and maintaining
    - **2.3.2. Four-Tier Architecture (Volume Management):** Describe the four-tier architecture, including the concept of volumes, and how data is stored and managed within volumes.
    - **2.3.3. Access Control and Security:**  Briefly discuss how Teamcenter manages access permissions, user roles, and data security. 
 
+////
+====

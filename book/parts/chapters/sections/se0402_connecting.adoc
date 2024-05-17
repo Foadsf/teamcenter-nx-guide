@@ -1,3 +1,7 @@
+.expand
+[%collapsible]
+====
+
 In the previous section, we explored the core building blocks of Teamcenter—items, revisions, datasets, and folders. Now, we'll delve into how these objects are interconnected, forming a rich web of relationships that represents our product knowledge in a structured and meaningful way.  
 
 Teamcenter goes beyond simply storing data; it captures the complex interdependencies between various pieces of information.  We'll examine the different types of relationships that can exist between objects, such as specifications, manifestations, and references, understanding how they define the roles and connections between items, revisions, and datasets. 
@@ -5,6 +9,7 @@ Teamcenter goes beyond simply storing data; it captures the complex interdepende
 Furthermore, we'll explore how these relationships contribute to building product structures—specifically, Bills of Materials (BOMs). BOMs are essential for representing the hierarchical breakdown of a product into its constituent components, providing a crucial foundation for manufacturing, procurement, and assembly processes. 
 
 
+////
 **4.1. Understanding Relationships**
    - **4.1.1.  Why Relationships Matter:**  Explain the importance of relationships in capturing product knowledge, ensuring data integrity, and facilitating traceability.
    - **4.1.2.  Types of Relationships:**  Discuss common relationship types in Teamcenter and their purpose:
@@ -29,3 +34,5 @@ Furthermore, we'll explore how these relationships contribute to building produc
       -  Explain how to define quantities and relationships between components.
    - **4.2.4.  Viewing and Navigating BOMs:**
       -  Demonstrate how to view and navigate a BOM structure in Teamcenter.
+////
+====

@@ -1,7 +1,3 @@
-.expand
-[%collapsible]
-====
-
 Imagine a vast library filled with countless books, manuscripts, and documents, each representing a vital piece of knowledge. Without a well-defined system for organization, categorization, and retrieval, navigating this sea of information would be a daunting and overwhelming task. In the realm of product development, data is our knowledge, and Teamcenter serves as our intelligent library, providing the structure, tools, and processes to manage this information effectively throughout the product lifecycle.
 
 "Chapter 4: Managing Product Data in Teamcenter" takes you on a deep dive into the practical aspects of organizing, controlling, and accessing product data within this powerful PLM system. We'll move beyond theoretical concepts and explore the core building blocks of Teamcenter, equipping you with the skills and best practices to create, manage, and leverage the fundamental objects that represent your products, designs, and associated information.
@@ -22,8 +18,6 @@ By the end of Chapter 4, you'll be adept at navigating the Teamcenter landscape,
 
 As you progress through the remaining chapters of this book, you'll build upon the core concepts covered in this chapter, leveraging Teamcenter's advanced features and integrating it seamlessly with NX for a powerful and efficient product development workflow. By mastering the art of managing product data in Teamcenter, you'll be well-prepared to drive innovation, improve collaboration, and deliver high-quality products to market faster than ever before.
 
-////
-
 ==== Building Blocks of Data: Understanding Core Teamcenter Objects
 
 include::./sections/se0401_building.adoc[]
@@ -42,7 +36,3 @@ include::./sections/se0403_pro.adoc[]
 ==== Assembling Your Knowledge: Hands-on Exercises with Structures and Revisions
 
 include::./sections/se0404_exercise.adoc[]
-
-
-////
-====

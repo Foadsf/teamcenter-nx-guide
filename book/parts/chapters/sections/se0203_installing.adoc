@@ -1,10 +1,14 @@
+.expand
+[%collapsible]
+====
+
 Now that we've explored the fundamental concepts and architecture of Teamcenter, it's time to get hands-on and prepare our environment for practical application. This involves installing and configuring both Teamcenter and NX, ensuring they are seamlessly integrated to support our product design and development workflows.
 
 This section serves as your step-by-step guide to setting up a robust and efficient Teamcenter environment that is ready to be leveraged in conjunction with NX.  We'll cover system requirements, installation procedures, essential configurations, and verification steps to ensure that both systems are communicating and functioning correctly.
 
 Whether you're a system administrator tasked with setting up a new PLM environment or an individual user wanting to explore Teamcenter on your local machine, this section will provide clear and concise instructions to guide you through the process. 
 
-
+////
 **2.4.  System Requirements and Prerequisites**
    - **2.4.1. Hardware Requirements:**  List the recommended hardware specifications for both Teamcenter server and client machines (processors, RAM, disk space, etc.).
    - **2.4.2. Operating Systems:**  Specify the supported operating systems for Teamcenter and NX.
@@ -26,3 +30,5 @@ Whether you're a system administrator tasked with setting up a new PLM environme
    - **2.7.2.  Testing the NX Integration:**  Explain how to test the NX and Teamcenter integration to ensure seamless data management.
    - **2.7.3.  Troubleshooting Common Issues:**  Provide tips for resolving common installation or configuration problems.
 
+////
+====
