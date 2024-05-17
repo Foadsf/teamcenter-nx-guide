@@ -57,12 +57,15 @@ jobs:
         draft: false
         prerelease: false
 
+    - name: Set Release Upload URL
+      run: echo "RELEASE_UPLOAD_URL=${{ steps.create_release.outputs.upload_url }}" >> $GITHUB_ENV
+
     - name: Upload PDF to Release
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        upload_url: ${{ env.RELEASE_UPLOAD_URL }}
         asset_path: ./docs/book.pdf
         asset_name: book.pdf
         asset_content_type: application/pdf
