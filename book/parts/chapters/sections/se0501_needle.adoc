@@ -1,0 +1,48 @@
+.expand
+[%collapsible]
+====
+
+As your product data grows in volume and complexity, finding the exact information you need quickly and efficiently becomes crucial. Sifting through countless files, revisions, and metadata can feel like searching for a needle in a haystack. Fortunately, Teamcenter equips you with a powerful set of search tools that transform this daunting task into a streamlined and intuitive process.
+
+This section explores the depths of Teamcenter's search capabilities, empowering you to master techniques for finding precisely what you need, when you need it. We'll delve into advanced search methods, learn how to use filters to narrow down results, discover the power of saved searches for frequently used criteria, and unlock the flexibility of wildcard characters for versatile matching.
+
+Whether you're tracking down the latest revision of a critical design document, identifying all parts associated with a particular project, or simply exploring the vast repository of product data, this section will equip you with the skills to navigate Teamcenter's search functionalities with confidence and precision.
+
+
+////
+5.1. Basic Search Techniques
+- 5.1.1. Simple Keyword Search: Introduce the basic keyword search, explaining how to enter search terms and how Teamcenter matches them to item names, descriptions, and file contents.
+- 5.1.2. Searching within Specific Fields: Explain how to target your search to specific fields, such as Item ID, Item Name, Revision, Creator, etc.
+- 5.1.3. Using Boolean Operators: Demonstrate the use of Boolean operators (AND, OR, NOT) to refine search queries and combine multiple criteria.
+
+5.2. Advanced Search Filters
+- 5.2.1. Date Filters: Explain how to use date filters to find items or datasets created or modified within specific timeframes.
+- 5.2.2. Owner and Group Filters: Show how to filter by the owner or group responsible for an item or dataset.
+- 5.2.3. Type Filters: Describe how to search for specific data types (e.g., NX part files, Word documents, JT files).
+- 5.2.4. Attribute Filters: Explain how to search based on specific attributes or metadata associated with items or datasets.
+
+5.3. Saved Searches for Efficiency
+- 5.3.1. Creating Saved Searches: Provide a step-by-step guide to creating saved searches for frequently used search criteria.
+- 5.3.2. Managing Saved Searches: Explain how to edit, rename, or delete saved searches.
+- 5.3.3. Sharing Saved Searches: Discuss options for sharing saved searches with other Teamcenter users.
+
+5.4. Wildcard Characters for Versatility
+- 5.4.1. Asterisk (*): Explain how to use the asterisk wildcard to match any number of characters.
+- 5.4.2. Question Mark (?): Show how to use the question mark wildcard to match a single character.
+- 5.4.3. Combining Wildcards: Demonstrate how to combine wildcards for more flexible search patterns.
+
+
+Note:
+
+Examples: Provide clear examples for each search technique, using realistic scenarios and data.
+
+Screenshots: Include screenshots to illustrate the steps involved in performing various searches and using filters.
+
+Tips and Best Practices: Offer advice on formulating effective search queries, using wildcards strategically, and organizing saved searches.
+
+Troubleshooting: Address common issues users might encounter during searches.
+
+This section equips readers with the skills to harness the power of Teamcenter's search tools, enabling them to quickly and efficiently find the information they need, transforming data retrieval from a tedious chore into a streamlined process.
+
+////
+====

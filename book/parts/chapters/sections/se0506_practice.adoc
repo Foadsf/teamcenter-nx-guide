@@ -1,0 +1,50 @@
+.expand
+[%collapsible]
+====
+
+You've gained valuable knowledge about Teamcenter's advanced search techniques, visualization and markup tools, and the power of workflows. Now it's time to solidify your understanding by putting these concepts into action!
+
+This section provides a series of hands-on exercises designed to reinforce your learning and build your confidence in using Teamcenter's advanced features. We'll guide you step-by-step through performing a complex search using multiple criteria and filters, creating a markup on a 3D model for collaborative review, and initiating a basic workflow to automate a simple process.
+
+By engaging in these practical exercises, you'll gain firsthand experience with Teamcenter's capabilities, bridging the gap between theory and real-world application. So let's dive in and start putting our newfound knowledge to the test! 
+
+////
+
+. Exercise 1:  Performing a Complex Search
+   .. The Scenario: Set the stage with a realistic scenario that requires finding specific data within Teamcenter. For example, "You need to find all revisions of a specific part that were created in the last month and approved by a particular engineer."
+   .. Step-by-Step Instructions: Guide users through the search process:
+      -  Selecting the appropriate search type (e.g., Item Revision search).
+      -  Entering keywords related to the part.
+      -  Applying date filters to limit the search to the last month.
+      -  Using the "Owner" filter to specify the engineer who approved the revisions. 
+      -  Examining the search results and verifying that they meet the criteria. 
+
+. Exercise 2:  Creating a Markup on a 3D Model
+   .. The Scenario: Provide a context for the markup, such as "You're reviewing a 3D model of a new product design and need to provide feedback to the design team on a specific feature."
+   .. Step-by-Step Instructions:  Lead users through creating a markup:
+      -  Opening the 3D model in the Teamcenter viewer.
+      -  Selecting an appropriate markup tool (e.g., arrow, text box, highlight).
+      -  Placing the markup on the desired feature of the model.
+      -  Adding a clear and concise comment to explain the issue or suggestion.
+      -  (Optional) Assigning the markup to a specific user for review and action.
+
+. Exercise 3: Initiating a Basic Workflow
+   .. The Scenario: Define a simple process that can be automated with a workflow. For example, "You need to submit a document for review and approval by two colleagues."
+   .. Step-by-Step Instructions:  Guide users through initiating the workflow:
+      -  Selecting the document that needs to be reviewed. 
+      -  Choosing the appropriate workflow template (e.g., "Document Review and Approval").
+      -  Assigning participants to the review and approval tasks. 
+      -  (Optional) Adding a due date or instructions for the reviewers. 
+      -  Monitoring the workflow's progress in the Teamcenter workflow view.
+
+**Note:**
+
+- **Data and Resources:** Provide access to sample data or clearly specify the data users should use for the exercises.
+- **Screenshots:**  Use screenshots to illustrate each step, making the instructions easy to follow.
+- **Alternative Approaches:**  If possible, demonstrate alternative approaches to achieving the same result, allowing users to explore different Teamcenter functionalities. 
+- **Troubleshooting:**  Anticipate potential errors or challenges users might face and offer guidance on resolving them. 
+
+By completing these hands-on exercises, readers will gain valuable practical experience with Teamcenter's advanced techniques, solidifying their understanding and preparing them for real-world applications of PLM. 
+
+////
+====

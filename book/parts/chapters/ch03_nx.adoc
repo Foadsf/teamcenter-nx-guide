@@ -29,4 +29,4 @@ include::./sections/se0302_start.adoc[]
 
 ==== Your First Steps in Teamcenter: A Hands-on Exercise
 
-include::./sections/se0303_cereation.adoc[]
+include::./sections/se0303_creation.adoc[]

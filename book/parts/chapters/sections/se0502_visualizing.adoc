@@ -1,0 +1,43 @@
+.expand
+[%collapsible]
+====
+
+In the world of product development, a picture is truly worth a thousand words. The ability to visualize designs, analyze their geometry, and communicate ideas clearly is paramount for effective collaboration and informed decision-making.  Teamcenter recognizes the power of visualization and provides a robust embedded viewer that brings your product data to life.
+
+This section explores the capabilities of Teamcenter's viewer, taking you beyond raw data and into the realm of interactive visualization. We'll learn how to view 2D drawings and 3D models directly within Teamcenter, leverage markup tools for collaborative design reviews, take accurate measurements to verify design intent, and generate insightful reports based on visual data.
+
+Whether you're an engineer examining a complex assembly, a designer presenting a concept to a client, or a manufacturing expert planning production processes, Teamcenter's viewer provides the tools to communicate effectively, collaborate efficiently, and make data-driven decisions throughout the product lifecycle.
+
+////
+
+. Accessing the Teamcenter Viewer
+   .. Launching the Viewer:  Explain how to access the viewer from different contexts within Teamcenter (e.g., from an item revision, a search result).
+   .. Supported Data Formats:  List the common 2D and 3D file formats that Teamcenter's viewer supports (e.g., JT, CGM, PDF).
+
+. Navigating and Viewing Data
+   .. 2D Viewing:  Explain navigation tools for viewing 2D drawings: pan, zoom, rotate, fit, view selection (top, front, etc.).
+   .. 3D Viewing: Demonstrate navigation in 3D: rotate, pan, zoom, orbit, walk, fly, view manipulation (standard views, custom views).
+   .. Display Options: Explain options for customizing the display:  background color, rendering styles, transparency, exploded views. 
+
+. Markup and Annotation for Collaboration
+   .. Types of Markups: Introduce the various markup tools available: arrows, text boxes, callouts, freehand drawing, highlighting, stamps, etc. 
+   .. Creating and Editing Markups:  Provide a step-by-step guide to creating, editing, and deleting markups.
+   .. Collaboration through Markups: Explain how markups can be used for collaborative design reviews, providing feedback and capturing design decisions. 
+
+. Measurement Tools
+   .. Distance Measurement:  Demonstrate how to measure distances between points, edges, or surfaces.
+   .. Angle Measurement:  Explain how to measure angles between edges, planes, or surfaces. 
+   .. Other Measurement Options:  Cover additional measurement tools, such as radius, diameter, area, volume, etc.
+
+. Generating Reports from Visual Data
+   .. Creating Reports:  Explain how to generate reports based on visualization data, such as part lists, measurement reports, and markup summaries. 
+   .. Report Customization:  Discuss options for customizing report formats and content.
+
+**Note:**
+
+- **Screenshots:**  Include clear and illustrative screenshots of the viewer interface, markup tools, measurement techniques, and report generation.
+- **Practical Examples:**  Use realistic scenarios and product data to demonstrate the functionalities. 
+- **Tips and Best Practices:**  Offer advice on using the viewer effectively for collaboration, design reviews, and generating insightful reports.
+
+////
+====
